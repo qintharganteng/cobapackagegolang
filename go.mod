@@ -1,11 +1,13 @@
-module github.com/qintharganteng/WebService2024/Week04/Praktikum/714220058
+module github.com/qintharganteng/cobapackagegolang
 
-go 1.22.1
-
-require go.mongodb.org/mongo-driver v1.14.0
+go 1.22.3
 
 require (
-	github.com/aiteung/atdb v0.1.7 // indirect
+	github.com/aiteung/atdb v0.1.7
+	go.mongodb.org/mongo-driver v1.15.0
+)
+
+require (
 	github.com/go-sql-driver/mysql v1.7.1 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
