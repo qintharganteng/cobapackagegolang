@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/qintharganteng/cobapackagegegolang/model"
+	"github.com/qintharganteng/cobapackagegolang/model"
 	"github.com/qintharganteng/cobapackagegolang/module"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
